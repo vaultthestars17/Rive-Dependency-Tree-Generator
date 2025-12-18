@@ -1,0 +1,24 @@
+<everything>
+<Artboard originX="0.5" originY="0.5" defaultStateMachineId="30:26712" selectedAnimations="30:26712" isComponent="true" includeInExport="true" width="3600" height="900" styleId="30:26701" x="3036" y="8479" name="Captain_Streak_bg_artboard" id="30:26695">
+    <Shape y="17" name="Rectangle 1171276399" hidden="true" locked="true" id="30:27223">
+        <Rectangle width="274" height="444" pathFlags="1" name="Path" hidden="true" locked="true" id="30:27224"/>
+        <Fill version="1" name="Fill 1" hidden="true" locked="true">
+            <SolidColor colorValue="80FF0000" name="Component" hidden="true" locked="true"/>
+        </Fill>
+    </Shape>
+    <Image assetId="30:27153" scaleX="1.8" scaleY="1.8" name="kxzRt_X7RZ62svAHGpdUJA" id="30:27156"/>
+    <LayoutComponentStyle marginLeftUnitsValue="1" marginRightUnitsValue="1" marginTopUnitsValue="1" marginBottomUnitsValue="1" paddingLeftUnitsValue="1" paddingRightUnitsValue="1" paddingTopUnitsValue="1" paddingBottomUnitsValue="1" gapHorizontalUnitsValue="1" gapVerticalUnitsValue="1" name="Layout Style" id="30:26701"/>
+    <StateMachine editingLayerId="30:26713" name="State Machine 1" id="30:26712">
+        <StateMachineLayer stageZoom="0.75" stageX="197.95605" stageY="2" name="Layer 1" id="30:26713">
+            <AnimationState animationId="30:26702" x="100" y="100" id="30:26703"/>
+            <AnyState x="100" y="200"/>
+            <ExitState x="300" y="200"/>
+            <EntryState x="100">
+                <StateTransition stateToId="30:26703"/>
+            </EntryState>
+        </StateMachineLayer>
+    </StateMachine>
+    <LinearAnimation name="Timeline 1" id="30:26702"/>
+</Artboard>
+
+</everything>
